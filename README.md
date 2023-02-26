@@ -32,4 +32,9 @@ npx cypress open
 
 ![Soal1](https://user-images.githubusercontent.com/85092513/221378393-64658123-47db-4825-8eff-82ff7d221a9f.gif)
 
+open cypress dashboard
+```bash
+https://github.com/Ghala29/TugasAkhirSoal1/tree/main/cypress/videos
+```
+
 ### Thanks
